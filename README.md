@@ -1,5 +1,5 @@
 # Photoshop
-https://github.com/nataliamer/Photoshop/blob/master/Letter.jpg
+![alt text] (https://github.com/nataliamer/Photoshop/blob/master/Letter.jpg "Logo title text 1")
 https://github.com/nataliamer/Photoshop/blob/master/P1.jpg
 https://github.com/nataliamer/Photoshop/blob/master/cup.jpg
 https://github.com/nataliamer/Photoshop/blob/master/dog.jpg
